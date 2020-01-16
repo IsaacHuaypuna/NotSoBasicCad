@@ -24,4 +24,9 @@ This is an image of the loft.
 
 ![loft.PNG](loft.PNG)
 
+## Description
+This was kinda similar to the last assignment. Only a bit harder. While there were instructions that didn't mean It wasn't hard. There were some parts that got a bit confusing. But it was pretty cool that it was the right shape of a hammer. Ive never made anything that complected in SolidWorks.
+
+## Summarize
+After making the loft ive felt preaty accomplished making 
 
