@@ -30,3 +30,9 @@ This was kinda similar to the last assignment. Only a bit harder. While there we
 ## Summarize
 After making the loft i've felt preaty accomplished making a shape that seemed pretty hard to make. I never realise how good these tutorials were. This also helped me fine new ways on making more detailed items or shapes.
 
+## Candle holder
+
+## Picture
+This is an image of the candle holder.
+
+![a_little_practice.PNG](a_little_practice.PNG)
