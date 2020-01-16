@@ -28,5 +28,5 @@ This is an image of the loft.
 This was kinda similar to the last assignment. Only a bit harder. While there were instructions that didn't mean It wasn't hard. There were some parts that got a bit confusing. But it was pretty cool that it was the right shape of a hammer. Ive never made anything that complected in SolidWorks.
 
 ## Summarize
-After making the loft ive felt preaty accomplished making 
+After making the loft i've felt preaty accomplished making a shape that seemed pretty hard to make. I never realise how good these tutorials were. This also helped me fine new ways on making more detailed items or shapes.
 
