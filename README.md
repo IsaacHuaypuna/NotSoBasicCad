@@ -18,6 +18,8 @@ After finishing the SolidWorks instructions its should look like a 1x1 lego piec
 
 ## Hammer head
 
+![a_little_practice.PNG](a_little_practice.PNG)
+
 ## Picture
 
 Heres a picture
