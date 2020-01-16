@@ -16,10 +16,12 @@ After finishing the SolidWorks instructions its should look like a 1x1 lego piec
 
 # Sweeps and Lofts
 
-## Hammer head
-
-![a_little_practice.PNG](a_little_practice.PNG)
+## Loft
 
 ## Picture
 
-Heres a picture
+This is an image of the loft.
+
+![loft.PNG](loft.PNG)
+
+
